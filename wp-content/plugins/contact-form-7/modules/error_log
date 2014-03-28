@@ -1,0 +1,16 @@
+[14-Feb-2014 04:54:57 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home3/paulcoff/public_html/wp-content/plugins/contact-form-7/modules/number.php on line 10
+[14-Feb-2014 04:55:10 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home3/paulcoff/public_html/wp-content/plugins/contact-form-7/modules/text.php on line 12
+[14-Feb-2014 04:55:12 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home3/paulcoff/public_html/wp-content/plugins/contact-form-7/modules/flamingo.php on line 7
+[14-Feb-2014 04:55:14 America/Denver] PHP Fatal error:  Call to undefined function add_filter() in /home3/paulcoff/public_html/wp-content/plugins/contact-form-7/modules/special-mail-tags.php on line 6
+[14-Feb-2014 04:55:15 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home3/paulcoff/public_html/wp-content/plugins/contact-form-7/modules/jetpack.php on line 3
+[14-Feb-2014 04:55:16 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home3/paulcoff/public_html/wp-content/plugins/contact-form-7/modules/textarea.php on line 8
+[14-Feb-2014 04:55:17 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home3/paulcoff/public_html/wp-content/plugins/contact-form-7/modules/acceptance.php on line 8
+[14-Feb-2014 04:55:19 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home3/paulcoff/public_html/wp-content/plugins/contact-form-7/modules/checkbox.php on line 8
+[14-Feb-2014 04:55:20 America/Denver] PHP Fatal error:  Call to undefined function add_filter() in /home3/paulcoff/public_html/wp-content/plugins/contact-form-7/modules/akismet.php on line 7
+[14-Feb-2014 04:55:22 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home3/paulcoff/public_html/wp-content/plugins/contact-form-7/modules/captcha.php on line 8
+[14-Feb-2014 04:55:24 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home3/paulcoff/public_html/wp-content/plugins/contact-form-7/modules/quiz.php on line 8
+[14-Feb-2014 04:55:25 America/Denver] PHP Fatal error:  Call to undefined function wpcf7_add_shortcode() in /home3/paulcoff/public_html/wp-content/plugins/contact-form-7/modules/response.php on line 8
+[14-Feb-2014 04:55:28 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home3/paulcoff/public_html/wp-content/plugins/contact-form-7/modules/date.php on line 9
+[14-Feb-2014 04:55:29 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home3/paulcoff/public_html/wp-content/plugins/contact-form-7/modules/file.php on line 8
+[14-Feb-2014 04:55:34 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home3/paulcoff/public_html/wp-content/plugins/contact-form-7/modules/select.php on line 8
+[14-Feb-2014 04:55:36 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home3/paulcoff/public_html/wp-content/plugins/contact-form-7/modules/submit.php on line 8
